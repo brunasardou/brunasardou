@@ -50,7 +50,6 @@ Atuo na interseção entre **dados, processos e tecnologia**, com foco em:
 ---
 
 ## 📬 Contato
-[![Email](https://img.shields.io/badge/Email-contato-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:SEU_EMAIL_AQUI)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-brunasardou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunasardou)
 
 ✨ Sempre aberta a conversar sobre dados, projetos e oportunidades.
