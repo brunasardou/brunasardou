@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Olá, eu sou a Bruna Sardou
 
 🎯 **Analista de Processos e Dados / BI**  
